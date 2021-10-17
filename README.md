@@ -1,6 +1,6 @@
 ### Hello! 👋🏾
 
-Welcome to Shakeel's little corner of GitHub. I am a PhD student in Statistics at LSE supervised by [Professor Piotr Fryzlewicz](https://stats.lse.ac.uk/fryzlewicz/). My academic interests mostly concern multiscale modeling for changepoint detection in time series.
+Welcome to Shakeel's little corner of GitHub. I am a PhD student in Statistics at LSE supervised by [Professor Piotr Fryzlewicz](https://stats.lse.ac.uk/fryzlewicz/). My academic interests mostly concern multiscale methods for detecting changepoints in time series data.
 
 ---
 
