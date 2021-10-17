@@ -16,7 +16,7 @@ Welcome to Shakeel's little corner of GitHub. I am a PhD student in Statistics a
   * I will be presenting at [CMStatistics 2021](http://www.cmstatistics.org/CMStatistics2021/index.php)
 
 🎉 Outside of my PhD wrok I...
-  * Help to organize the [stat PhD reading group](https://lse-stats-phd-reading-group.github.io/)
+  * Help to organize the [stats PhD reading group](https://lse-stats-phd-reading-group.github.io/)
   * Am part of the [LSE Black PhD students network](https://twitter.com/LseMwangaza)
 
 Still here? Why not listen to some [music](https://www.youtube.com/watch?v=W2avGFXiueo).
