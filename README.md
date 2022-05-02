@@ -14,10 +14,11 @@ This year (2021/22) I am the GTA for...
 
 News... 
   * I will be sharing my perspective on the academic experience at the LSE's [Black Achievement Conference](https://www.lse.ac.uk/study-at-lse/Undergraduate/widening-participation/Sixth-form-college/black-achievement-conference-year-12)
+  * I will be presenting at [ICORS 2022](https://uwaterloo.ca/international-conference-robust-statistics/)
   * I will be presenting at [JSM 2022](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322376) 
 
 Outside of my PhD work I...
   * Help to organize the [stats PhD reading group](https://lse-stats-phd-reading-group.github.io/)
   * Am part of the [LSE Black PhD students network](https://twitter.com/LseMwangaza)
 
-Still here? Why not listen to some [music](https://www.youtube.com/watch?v=W2avGFXiueo).
+Still here? Why not listen to some [music](https://www.youtube.com/watch?v=BN8M2irJVJA).
