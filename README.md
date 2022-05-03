@@ -17,7 +17,7 @@ News...
   * I am happy to have been awarded a [travel grant to attend ICORS 2022](https://uwaterloo.ca/international-conference-robust-statistics/awards)
 
 Upcoming talks...
-  * I will be presenting at the [IMS2022](https://www.imsannualmeeting-london2022.com/) session on "Inference on Change Points"
+  * I will be presenting at the [IMS 2022](https://www.imsannualmeeting-london2022.com/) session on "Inference on Change Points"
   * I will be presenting at [ICORS 2022](https://uwaterloo.ca/international-conference-robust-statistics/)
   * I will be presenting at the [JSM 2022](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=322376) session on "Inference on Functional Data"
 
