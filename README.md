@@ -5,7 +5,7 @@ Welcome to Shakeel's little corner of GitHub. I am a PhD student in Statistics a
 ---
 
 I’m currently working on two PhD projects...
-  * Robust inference for changepoints in piecewise polynomials
+  * Inference for changepoints in piecewise polynomials
   * Recovering causal structures in change point regressions
   
 Upcoming talks and conferences...
