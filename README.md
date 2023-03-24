@@ -21,3 +21,5 @@ Outside of my PhD work I...
   * Am part of the [LSE Black PhD students network](https://twitter.com/LseMwangaza)
 
 Still here? Why not listen to some [music](https://www.youtube.com/watch?v=BN8M2irJVJA).
+
+https://lse.zoom.us/j/88607737934?pwd=RVc4TG4wM0gyQ3ZicVdoQzI5amtCUT09
