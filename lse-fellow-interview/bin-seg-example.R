@@ -22,9 +22,9 @@ BinSeg <- function(ss, ee, xx, lambda)
   {
     SS <- (SS-min(SS))/(max(SS)-min(SS)) * (max(xx)-min(xx)) + min(xx)
     
-    lines(SS ~ c(ss:(ee-1)), col = "red")
+    lines(SS ~ c(ss:(ee-1)), col = bb)
     
-    abline(v = bb, col = "red", lty = 2)  
+    abline(v = bb, col = bb, lty = 2)  
     
     return(c(
       BinSeg(ss,bb,xx,lambda),
@@ -40,8 +40,6 @@ BinSeg <- function(ss, ee, xx, lambda)
 
 doBinSeg <- function(xx)
 {
-  plot(xx, lwd = 2)
-  
   nn <- length(xx)
   
   lambda <- sqrt(3*mad(xx)*log(nn))
@@ -62,7 +60,7 @@ theta <- c(rep(0,50), rep(3,50))
 
 xx <- theta + rnorm(length(theta))
 
-xx |> plot(type = "l", col = "grey", lwd = 2)
+xx |> plot(col = "grey", lwd = 2)
 
 theta |> lines(lwd = 2, lty = 2)
 
@@ -77,7 +75,7 @@ theta <- c(rep(0,30), rep(3,30), rep(0,30))
 
 xx <- theta + rnorm(length(theta))
 
-xx |> plot(type = "l", col = "grey", lwd = 2)
+xx |> plot(col = "grey", lwd = 2)
 
 theta |> lines(lwd = 2, lty = 2)
 
