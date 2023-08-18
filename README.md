@@ -4,17 +4,12 @@ Welcome to Shakeel's little corner of GitHub. I am a PhD student in Statistics a
 
 ---
 
-I’m currently working on two PhD projects...
-  * Inference for changepoints in piecewise polynomials
+I’m currently working on two projects...
+  * Robust inference for changepoints in piecewise polynomials
   * Recovering causal structures in change point regressions
   
 Upcoming talks and conferences...
-  * I will give a talk at the [Advanced Statistical Seminar, Charles University Prague](https://www2.karlin.mff.cuni.cz/~maciak/StS2023.php) in late March; the slides can be found [here](https://github.com/gaviosha/gaviosha/blob/main/Charles-univ-presentation-2023.pdf)
-
-This year (2022/23) I am the GTA for...
-  * [ST310 Machine Learning](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST310.htm)
-  * [ST304 Time Series and Forecasting](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST304.htm)
-  * [ST226 Actuarial Investigations (Financial)](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST226.htm)
+  * I will be at the [CMStatistics](http://www.cmstatistics.org/CMStatistics2023/) session "structured multivariate and functional data" this December
 
 Outside of my PhD work I...
   * Help to organize the [stats PhD reading group](https://lse-stats-phd-reading-group.github.io/)
