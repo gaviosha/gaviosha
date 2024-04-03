@@ -4,12 +4,12 @@ Welcome to Shakeel's little corner of GitHub. I am a PhD student in Statistics a
 
 ---
 
-I’m currently working on two projects...
-  * Robust inference for change points in piecewise polynomials
-  * Recovering causal structures in change point regressions
+I’m currently working on ...
+  * Some non-parametric change point problems in stochastic frontier analysis
+  * An online procedure for detecting the onset of unit roots
   
 Upcoming talks and conferences...
-  * I will be at the [CMStatistics](http://www.cmstatistics.org/CMStatistics2023/) session "structured multivariate and functional data" this December
+  * I will give a talk at the [HiTEc Spring workshop](https://www.cmstatistics.org/hiteccodes2024/index.php) session on "theoretical and computational aspects of complex data models"
 
 Outside of my PhD work I...
   * Help to organize the [stats PhD reading group](https://lse-stats-phd-reading-group.github.io/)
