@@ -10,6 +10,6 @@ I’m currently working on ...
   * An online procedure for detecting the onset of unit roots. 
   
 Upcoming talks and conferences...
-  * I will give a talk at the [EcoSta](https://www.cmstatistics.org/hiteccodes2024/index.php) session on "Recent advances in change point detection". 
+  * I will give a talk at the [EcoSta]([https://www.cmstatistics.org/hiteccodes2024/index.php](https://www.cmstatistics.org/EcoSta2025/organized.php)) session on "Recent advances in change point detection". 
 
 Still here? Why not listen to some [music](https://www.youtube.com/watch?v=I3qx1hcBq1U).
